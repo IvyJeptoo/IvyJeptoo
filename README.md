@@ -1,5 +1,5 @@
 
-# Hi there 👋<img src="https://user-images.githubusercontent.com/61727167/114547962-cecc6b80-9c67-11eb-9697-b1c5a8c8ff46.gif" width="30px">... I'm Ivy Jeptoo.
+# Hi there<img src="https://user-images.githubusercontent.com/61727167/114547962-cecc6b80-9c67-11eb-9697-b1c5a8c8ff46.gif" width="30px">... I'm Ivy Jeptoo.
 
 
 
@@ -39,7 +39,7 @@
 <div> 
  <a href="mailto:ivy.jeptoo@student.moringaschool.com" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> &nbsp;
  <a href="https://www.linkedin.com/in/ivy-jeptoo-bb24021a2" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &nbsp;
- <a href="https://twitter.com/IvyYegon?t=yN_QgohYXWxgg8wwhhTMRQ&s=09" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/@CurveIt19-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a> &nbsp;
+ <a href="https://twitter.com/IvyYegon?t=yN_QgohYXWxgg8wwhhTMRQ&s=09" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a> &nbsp;
 </div>
 
 <!--
