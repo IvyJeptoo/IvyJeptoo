@@ -3,7 +3,7 @@
 
 
 
-## An aspiring Fullstack developer.
+## A Fullstack developer.
 
 ### Languages and Frameworks:
 
