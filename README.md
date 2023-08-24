@@ -32,6 +32,8 @@
 
 <br>
 <br>
+![Github_Stats](https://github-readme-stats.vercel.app/api username=IvyJeptoo &theme=dark)
+
 
 ### Connect With Me:
 
