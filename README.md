@@ -3,7 +3,7 @@
 
 
 
-## A Software developer.
+## A Software developer trnsitioning to DevOps.
 
 ### Languages and Frameworks:
 
